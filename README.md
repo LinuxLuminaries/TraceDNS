@@ -1,4 +1,4 @@
-# CloakCheck
+# TraceDNS
 
 A powerful multi-source OSINT subdomain enumeration tool that collects, correlates, and deduplicates subdomains using both local reconnaissance tools and passive intelligence providers.
 
